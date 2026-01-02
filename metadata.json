@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Multi-Agent Resume Evaluation",
+  "description": "An advanced resume screening application that leverages a simulated Multi-Agent System (MAS) powered by the Gemini API. Users can input a job description and resume to receive a comprehensive analysis from various specialized AI agents, providing a detailed, multi-faceted evaluation of the candidate's suitability.",
+  "requestFramePermissions": []
+}
